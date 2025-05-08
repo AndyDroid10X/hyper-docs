@@ -1,0 +1,9 @@
+[book]
+authors = ["Andy Antares"]
+language = "ru"
+multilingual = false
+src = "src"
+title = "Hyper App User Guide"
+
+[output.html]
+theme = "theme"
